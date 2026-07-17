@@ -155,6 +155,4 @@ AI_Study_Mentor/
 
 **Divya** — AI/ML Developer | B.Tech Electronics & Telecom
 
-```
 
-```
