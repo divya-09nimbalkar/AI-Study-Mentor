@@ -1,0 +1,17 @@
+# ── Core Generative AI System Layer ────────────────────────
+google-generativeai>=0.8.0
+
+# ── Embedding Embeddings & Vector Stores ───────────────────
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+
+# ── Relational Database & Structural Profiles ──────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Graphical Visualizations & Utilities ───────────────────
+matplotlib>=3.8.0
+rich>=13.7.0
+
+# ── Application UI Framework ───────────────────────────────
+gradio>=6.0.0
