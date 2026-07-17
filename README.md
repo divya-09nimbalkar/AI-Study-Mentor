@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
->  An interactive, personalized study orchestration application that leverages **FAISS local vector similarity lookups** and **Google Gemini 2.5-Flash** models to deliver contextual deep explanations, structurally verified MCQ evaluation blocks, and an SQLite-backed spaced repetition scheduling pipeline.
+>  An interactive, personalized study orchestration application that leverages FAISS local vector similarity lookups and Google Gemini 2.5-Flash models to deliver contextual deep explanations, structurally verified MCQ evaluation blocks, and an SQLite-backed spaced repetition scheduling pipeline.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ##  Overview
 
-The **AI Study Mentor** platform transforms unstructured technical material into a personalized curriculum. By using local dense embeddings via Sentence-Transformers alongside a vectorized database, it extracts targeted reference contexts to dynamically serve multi-tier conceptual tutorials, compile rigorous mock exams, and manage an exponential review schedule.
+The AI Study Mentor platform transforms unstructured technical material into a personalized curriculum. By using local dense embeddings via Sentence-Transformers alongside a vectorized database, it extracts targeted reference contexts to dynamically serve multi-tier conceptual tutorials, compile rigorous mock exams, and manage an exponential review schedule.
 
 ---
 
