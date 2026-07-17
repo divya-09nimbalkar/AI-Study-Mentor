@@ -33,8 +33,6 @@ The **AI Study Mentor** platform transforms unstructured technical material into
 ##  System Architecture
 
 
-```
-
 Technical Educational Source Material File Input
 │
 ▼
